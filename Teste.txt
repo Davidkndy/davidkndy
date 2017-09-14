@@ -2,3 +2,8 @@ Curso de GIT para iniciantes
 Testando 123
 
 Este é um repositório pra ver como o git funciona
+
+Nova alteração
+
+Adicionado novas coisas
+
